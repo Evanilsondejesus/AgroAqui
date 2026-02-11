@@ -1,0 +1,26 @@
+{
+  "name": "agroaqui_api",
+  "version": "1.0.0",
+  "description": "é oferecer uma solução simples, organizada e funcional para auxiliar no controle de estoque e na organização de produtos agrícolas, facilitando a gestão tanto para pequenos produtores quanto para distribuidores.",
+  "keywords": [
+    "agro",
+    "agricultura",
+    "negócio",
+    "comércio"
+  ],
+  "homepage": "https://github.com/Evanilsondejesus/AgroAqui#readme",
+  "bugs": {
+    "url": "https://github.com/Evanilsondejesus/AgroAqui/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evanilsondejesus/AgroAqui.git"
+  },
+  "license": "ISC",
+  "author": "AgricoAqui",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  }
+}
