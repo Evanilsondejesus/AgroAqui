@@ -17,6 +17,6 @@ Bibliotecas e frameworks separados:
 Antes de dar start no projeto certifique ser está conectado ao banco de dado na maquina
 start: node server.js
 Projeto roda porta
-roda na porta 3000(http://localhost:3800)
+roda na porta 3800(http://localhost:3800)
 
 
